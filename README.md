@@ -56,4 +56,4 @@ Hammerwatch 게임 내 영어 문장들을 한글로 바꾸는 패치 입니다.
 
 [xdelta3](https://github.com/jmacd/xdelta) (Apache License 2.0) 
 
-[Neo 둥근모 Pro font](https://github.com/neodgm/neodgm-pro) (SIL Open Font License 1.1) 
+[Dalmoori font](https://github.com/RanolP/dalmoori-font) (Apache License 2.0) 
