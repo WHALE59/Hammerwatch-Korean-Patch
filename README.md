@@ -40,6 +40,16 @@ Hammerwatch 게임 내 영어 문장들을 한글로 바꾸는 패치 입니다.
 일부 오역 및 도움말 수정
 
 ---
+### 공식 맵 한글패치
+
+
+<p align="center">
+  <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2869474800"><img src="https://images.steamusercontent.com/ugc/1778383072192185677/107B142CFBF719982DA0B3FC1970C1D373062C21/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="200" alt="Hero Defense 한글" title="Hero Defense 한글"></a>
+  <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2869594321"><img src="https://images.steamusercontent.com/ugc/1778383072193406143/FC02EABF3C257911D6F5E42C47D5F4CFA755A6FA/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="200" alt="Survival 한글" title="Survival 한글"></a>
+</p>
+
+
+---
 
 # Preview
 
